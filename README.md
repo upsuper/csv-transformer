@@ -197,6 +197,10 @@ the first matching one would be picked.
 
 An error would be raised if a non-empty value in the source columns can't be mapped to a target column.
 
+## Development
+
+All transformations are in `src/transform` directory, and new transformations can be added there.
+
 ## License
 
 Copyright (C) 2020 Xidorn Quan
