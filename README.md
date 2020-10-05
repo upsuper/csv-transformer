@@ -32,7 +32,7 @@ The strings formatted `X: Header text` is called a column reference,
 and the letters before the first colon is the column index.
 
 You can then edit the YAML file to reflect the transformation you want.
-Please refer to the [transformations][#Transformations] section for available transformations.
+Please refer to the [transformations](#Transformations) section for available transformations.
 This is an example of transformation file we used for the survey:
 [transform.yaml](https://gist.github.com/upsuper/3e90f78d84b84c9741d585a1d462b1b5).
 
